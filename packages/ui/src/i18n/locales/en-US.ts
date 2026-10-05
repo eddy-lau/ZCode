@@ -3459,7 +3459,7 @@ const enUS: Record<string, string> = {
   "settings.usage.entitlementResetTime": "Next reset",
   "settings.usage.entitlementTokenUsage": "5-hour prompt pool used {percent}",
   "settings.usage.quotaTitle": "Quota remaining",
-  "codingPlan.quotaReset.openDialog": "Get {count} reset quotas",
+  "codingPlan.quotaReset.openDialog": "{count} resets available",
   "codingPlan.quotaReset.countdown.daysHours": "{days}d {hours}h",
   "codingPlan.quotaReset.countdown.daysOnly": "{days}d",
   "codingPlan.quotaReset.countdown.hoursMinutes": "{hours}h {minutes}m",

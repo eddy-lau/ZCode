@@ -3254,7 +3254,7 @@ const zhCN: Record<string, string> = {
   "settings.usage.entitlementResetTime": "下次重置",
   "settings.usage.entitlementTokenUsage": "5 小时 Prompt 池已用 {percent}",
   "settings.usage.quotaTitle": "剩余额度",
-  "codingPlan.quotaReset.openDialog": "获得{count}次重置额度",
+  "codingPlan.quotaReset.openDialog": "{count}次可重置额度",
   "codingPlan.quotaReset.countdown.daysHours": "{days} 天 {hours} 小时",
   "codingPlan.quotaReset.countdown.daysOnly": "{days} 天",
   "codingPlan.quotaReset.countdown.hoursMinutes": "{hours} 小时 {minutes} 分",
